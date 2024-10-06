@@ -13,7 +13,7 @@ import java.util.Scanner;
 public class Parser {
 
     // Create a BST tree of your class type (Note: Replace "Object" with your class type)
-    private BST<NBAPlayer> myBST = new BST<>();
+    public BST<NBAPlayer> myBST = new BST<>();
 
     public Parser(String filename) throws FileNotFoundException {
         process(new File(filename));

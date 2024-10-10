@@ -1,3 +1,10 @@
+/***************************************************************************
+ @file: Proj1.java
+ @description: This program is the main function.
+ @author:  Kennedy Kirk
+ @date  September 18,2024
+// hello
+ *******************************************************************************/
 import java.io.FileNotFoundException;
 
 public class Proj1 {
